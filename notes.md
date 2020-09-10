@@ -1,7 +1,7 @@
 
 Refer the [cncf](yml\readme.md) folder for the yaml files
 
-Code in the same repository
+Code in the same repo
 
 #Setup
 
